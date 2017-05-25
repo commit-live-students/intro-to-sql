@@ -51,6 +51,7 @@ Following is a simple diagram showing the SQL Architecture −
 The standard SQL commands to interact with relational databases are CREATE, SELECT, INSERT, UPDATE, DELETE and DROP. These commands can be classified into the following groups based on their nature −
 
 DDL - Data Definition Language
+
 | Command | Description |
 | ------- | ----------- |
 | CREATE | Creates a new table, a view of a table, or other object in the database. |
@@ -58,6 +59,7 @@ DDL - Data Definition Language
 | DROP | Deletes an entire table, a view of a table or other objects in the database. |
 
 DML - Data Manipulation Language
+
 | Command | Description |
 | ------- | ----------- |
 | SELECT | Retrieves certain records from one or more tables. |
@@ -66,6 +68,7 @@ DML - Data Manipulation Language
 | DELETE | Deletes records. |
 
 DCL - Data Control Language
+
 | Command | Description |
 | ------- | ----------- |
 | GRANT | Gives a privilege to user. |
